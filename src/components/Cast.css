@@ -1,0 +1,28 @@
+.cast-container {
+    margin-bottom: 20px;
+  }
+  
+  .title {
+    font-size: 20px;
+  }
+  
+  .list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .item {
+    margin-bottom: 10px;
+  }
+  
+  .image {
+    width: 100px;
+    height: 150px;
+    margin-right: 10px;
+  }
+  
+  .name {
+    font-size: 16px;
+    margin: 0;
+  }
+  
